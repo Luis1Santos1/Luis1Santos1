@@ -14,7 +14,7 @@ I'm a Full Stack Developer at [ONIUM Tecnologia e Sistemas](https://www.onium.co
 
 ## 📊 GitHub Stats
 
-![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis1Santos1&show_icons=true&theme=dark)
+![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis1Santos1&show_icons=true&theme=dark&count_private=true)
 
 ## 🔥 Recent Achievements
 - Completed **Santander 2024 - AI Fundamentals Bootcamp**
@@ -34,7 +34,7 @@ I’m currently enhancing my skills in:
 ## 💬 Let's Talk About
 #CSharp #Angular #FullStackDevelopment #Automation #SoftwareEngineering #AI #ProjectManagement
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis1Santos1&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis1Santos1&layout=compact&theme=dark&count_private=true)
 
 ---
 
