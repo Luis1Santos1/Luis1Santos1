@@ -12,10 +12,6 @@ I'm a Full Stack Developer at [ONIUM Tecnologia e Sistemas](https://www.onium.co
 - **Tools**: Radzen, Git, GitHub, Power BI
 - **Certifications**: Git & GitHub, AI Fundamentals, WEB Programmer, Explorando Framework Angular, .NET 6
 
-## 📊 GitHub Stats
-
-![Luis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis1Santos1&show_icons=true&theme=dark&count_private=true)
-
 ## 🔥 Recent Achievements
 - Completed **Santander 2024 - AI Fundamentals Bootcamp**
 - Developed innovative solutions for **access control automation** at port terminals
@@ -33,8 +29,6 @@ I’m currently enhancing my skills in:
 
 ## 💬 Let's Talk About
 #CSharp #Angular #FullStackDevelopment #Automation #SoftwareEngineering #AI #ProjectManagement
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis1Santos1&layout=compact&theme=dark&count_private=true)
 
 ---
 
