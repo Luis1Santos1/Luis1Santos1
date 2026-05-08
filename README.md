@@ -102,3 +102,7 @@ Backend Developer (**.NET 6/8**) with experience in **Angular**, building **robu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis1Santos1/Luis1Santos1/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Luis1Santos1/Luis1Santos1/output/github-contribution-grid-snake.svg" />
 </picture>
+
+.
+.
+.
